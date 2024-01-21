@@ -87,4 +87,9 @@ p {
     display: flex;
     flex-direction: column;
   }
+  
+  .modal {
+    width: 100%;
+    height: auto;
+  }
 }
